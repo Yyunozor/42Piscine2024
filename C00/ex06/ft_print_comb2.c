@@ -31,8 +31,9 @@ void ft_print_comb2_recursive(int i, int j) {
 void ft_print_comb2(void) {
     ft_print_comb2_recursive(0, 1);
 }
-
+/*
 int main(void) {
     ft_print_comb2();
     return 0;
 }
+*/
